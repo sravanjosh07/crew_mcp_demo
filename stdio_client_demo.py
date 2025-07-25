@@ -6,6 +6,7 @@ import os
 
 
 load_dotenv()
+# MODEL="gpt-4.1-mini-2025-04-14"
 
 # Create a StdioServerParameters object
 server_params=StdioServerParameters(
